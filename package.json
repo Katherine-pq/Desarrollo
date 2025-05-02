@@ -4,7 +4,7 @@
       "cwd": "server"
     },
     "start": {
-      "command": "npm run dev",
+      "command": "npm start",
       "cwd":"server"
   }
   }
