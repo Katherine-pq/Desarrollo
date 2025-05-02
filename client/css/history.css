@@ -1,0 +1,6 @@
+.colum-history{
+    height: 70px;
+    td{
+        min-width: 200px !important;
+    }
+}
