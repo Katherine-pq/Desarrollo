@@ -12,7 +12,6 @@ const getProduct = async () => {
   const updateCartCount = () => {
     const totalItems = carts.reduce((acc, item) => acc + item.quantity, 0);
     $cartsCount.textContent = totalItems;
-    console.log('pasmos')
   };
 
   try {

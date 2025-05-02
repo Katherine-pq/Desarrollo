@@ -45,6 +45,8 @@
     .product-card{
         img{
             width: 100%;
+            object-fit: contain;
+            height: 350px !important;
             margin: auto;
         }
         .product-name{
